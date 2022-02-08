@@ -5,8 +5,7 @@ package p01;
 작성자 : 박철홍
 작성일 : 2022.02.08
 */
-
-public class WeLoveKriii {
+public class P01_02_WeLoveKriii {
 
 	public static void main(String[] args) {
 		System.out.print("강한친구 대한육군 \n강한친구 대한육군");

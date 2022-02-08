@@ -5,7 +5,7 @@ package p01;
 累己磊 : 冠枚全
 累己老 : 2022.02.08
 */
-public class HelloWorld {
+public class P01_01_HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
