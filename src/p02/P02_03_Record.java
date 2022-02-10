@@ -7,7 +7,7 @@ import java.util.Scanner;
 累己磊 : 冠枚全
 累己老 : 2022.02.10
 */
-public class P02_03_LeapYear {
+public class P02_03_Record {
 
 	public static void main(String[] args) {
 		
